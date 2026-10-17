@@ -2,7 +2,7 @@ import {test} from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import {selectProjects,adjacentIndex} from '../src/gallery-model.mjs';
-import {artworkPath,readLocation,viewUrl,PAGE_BASE} from '../src/site-paths.mjs';
+import {artworkPath,atlasChapterUrl,FIELD_ATLAS_URL,readLocation,viewUrl,PAGE_BASE} from '../src/site-paths.mjs';
 
 const projects=JSON.parse(await readFile(new URL('../src/catalog.json',import.meta.url),'utf8'));
 test('all eighteen artworks preserve their original order and identities',()=>{
@@ -55,4 +55,12 @@ test('local applications have setup links and Dustin retains the GLO concept cre
   assert.deepEqual(projects.filter(project=>!project.pages).map(project=>project.repo).sort(),['BrainC','PhiCade']);
   assert.equal(projects.filter(project=>project.pages).length,16);
   assert.equal(projects.find(project=>project.repo==='GLO').credit,'Original GLO concept: Dustin');
+});
+
+test('Field Atlas links deep-link only to its known public curated chapters',()=>{
+  assert.equal(FIELD_ATLAS_URL,'https://michaelwave369.github.io/FieldAtlas/');
+  assert.equal(atlasChapterUrl({repo:'Domistika'}),'https://michaelwave369.github.io/FieldAtlas/?chapter=Domistika');
+  assert.equal(atlasChapterUrl({repo:'GLO'}),FIELD_ATLAS_URL);
+  assert.equal(atlasChapterUrl({repo:'../evil'}),FIELD_ATLAS_URL);
+  assert.equal(atlasChapterUrl(null),FIELD_ATLAS_URL);
 });

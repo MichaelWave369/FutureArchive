@@ -1,7 +1,7 @@
 import React, {useEffect, useMemo, useRef, useState} from 'react';
 import projects from './catalog.json';
 import {selectProjects, adjacentIndex} from './gallery-model.mjs';
-import {artworkPath, repositoryUrl, readLocation, viewUrl} from './site-paths.mjs';
+import {artworkPath, repositoryUrl, atlasChapterUrl, readLocation, viewUrl} from './site-paths.mjs';
 import {Header, Hero, Story, Footer} from './StaticSections.jsx';
 
 const categories = ['all', ...new Set(projects.map(project => project.category))];
@@ -65,7 +65,7 @@ function PrintViewer({project, pool, onNavigate, onClose, opener}) {
         <div className="print-story"><h3>In the print</h3><p id="viewer-art">{project?.art}</p></div>
         {project?.credit && <p className="project-credit" id="viewer-credit">{project.credit}</p>}
         <div className="viewer-links"><a className="button button-gold" id="viewer-pages" href={project?(project.pages || repositoryUrl(project)+'#readme'):undefined} target="_blank" rel="noopener noreferrer">{project?.pages?'Open GitHub Pages ↗':'Local setup guide ↗'}</a><a className="button button-outline" id="viewer-github" href={project?repositoryUrl(project):undefined} target="_blank" rel="noopener noreferrer">View repository <span aria-hidden="true">↗</span></a></div>
-        <div className="viewer-utilities"><a id="viewer-download" href={project?artworkPath(project):undefined} download={project?project.number+'-'+project.slug+'.webp':undefined}>Save image <span aria-hidden="true">↓</span></a><button id="viewer-copy-link" type="button" onClick={copyLink}>Copy print link <span aria-hidden="true">↗</span></button></div><p className="viewer-hint">Use ← → to browse · Esc to return</p><p className="copy-status" id="copy-status" role="status" aria-live="polite">{copyStatus}</p>
+        <div className="viewer-utilities"><a href={project?atlasChapterUrl(project):undefined} target="_blank" rel="noopener noreferrer" aria-label="Explore this project through the Field Atlas living library">Field Atlas <span aria-hidden="true">↗</span></a><a id="viewer-download" href={project?artworkPath(project):undefined} download={project?project.number+'-'+project.slug+'.webp':undefined}>Save image <span aria-hidden="true">↓</span></a><button id="viewer-copy-link" type="button" onClick={copyLink}>Copy print link <span aria-hidden="true">↗</span></button></div><p className="viewer-hint">Use ← → to browse · Esc to return</p><p className="copy-status" id="copy-status" role="status" aria-live="polite">{copyStatus}</p>
       </div>
     </div>
   </dialog>;

@@ -1,5 +1,10 @@
 # Future Archive
 
+## Field Atlas bridge
+
+The poster gallery links to the independent [Field Atlas living book](https://michaelwave369.github.io/FieldAtlas/) from its navigation, story, and individual print viewers. For projects already in the Atlas's published starter catalog, a print opens the matching chapter via the Atlas's existing `?chapter=RepoName` link. For all other projects, the viewer links to the Atlas entrance instead of promising an unapproved chapter. The art remains hosted here, and the living book remains curated separately.
+
+
 **Code, cast in chrome.** A React gallery of MichaelWave369's first 18 retrofuturist repository art prints, preserved across three six-print volumes.
 
 **GitHub Pages destination:** https://michaelwave369.github.io/FutureArchive/ — publication requires the one-time Pages setup below and a successful deployment.

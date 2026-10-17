@@ -27,3 +27,19 @@ export function viewUrl(href, filters, activeNumber) {
   else if (/^#print-\d{2}$/.test(url.hash)) url.hash = '';
   return url;
 }
+
+/**
+ * The Atlas is an independent curated living book. Deep-link only to chapters
+ * in its published starter set; other prints open the Atlas entrance instead
+ * of promising a chapter that may not have been approved by its visitor.
+ */
+export const FIELD_ATLAS_URL = 'https://michaelwave369.github.io/FieldAtlas/';
+const curatedAtlasRepos = new Set([
+  'SuperPhiVessel', 'PhiOS', 'parallax-pixelforge', 'SiliconLouvre',
+  'FieldDeck', 'Domistika', 'Auralith369', 'PhiMirrorHex', 'GiltHouse',
+]);
+export function atlasChapterUrl(project) {
+  const url = new URL(FIELD_ATLAS_URL);
+  if (project && curatedAtlasRepos.has(project.repo)) url.searchParams.set('chapter', project.repo);
+  return url.href;
+}

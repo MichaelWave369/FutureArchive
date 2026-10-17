@@ -1,0 +1,187 @@
+{
+  "checked_date": "2026-10-16",
+  "source": "GitHub public repository metadata and repository READMEs",
+  "availability": "GitHub Pages enablement confirmed; external HTTP availability not independently verified",
+  "projects": [
+    {
+      "repo": "Infinite-Porch",
+      "full_name": "MichaelWave369/Infinite-Porch",
+      "html_url": "https://github.com/MichaelWave369/Infinite-Porch",
+      "description": "A place for you and your bros.",
+      "homepage": "https://michaelwave369.github.io/Infinite-Porch/",
+      "has_pages": true,
+      "visibility": "public",
+      "updated_at": "2026-10-16T21:58:27Z"
+    },
+    {
+      "repo": "Infinite-Commons",
+      "full_name": "MichaelWave369/Infinite-Commons",
+      "html_url": "https://github.com/MichaelWave369/Infinite-Commons",
+      "description": "Infinite Commons is the public-safe consumer of Phi-Pantheon artifacts, rendering Commons-ready directory, graph, chronicle, protocol, and bootstrap views from deterministic local handoff bundles.",
+      "homepage": "https://michaelwave369.github.io/Infinite-Commons/",
+      "has_pages": true,
+      "visibility": "public",
+      "updated_at": "2026-10-14T04:38:09Z"
+    },
+    {
+      "repo": "SuperPhiVessel",
+      "full_name": "MichaelWave369/SuperPhiVessel",
+      "html_url": "https://github.com/MichaelWave369/SuperPhiVessel",
+      "description": "Super Φ.Vessel (Vessie) is an experimental governed cognitive operating layer for AI systems.",
+      "homepage": "https://michaelwave369.github.io/SuperPhiVessel/",
+      "has_pages": true,
+      "visibility": "public",
+      "updated_at": "2026-10-10T23:39:02Z"
+    },
+    {
+      "repo": "NestedBubbleGear",
+      "full_name": "MichaelWave369/NestedBubbleGear",
+      "html_url": "https://github.com/MichaelWave369/NestedBubbleGear",
+      "description": "Nested Bubble/Gear (NBG): reproducible experiments in hidden causal residue, interface transport, ordered composition, holonomy, local-to-global structure, and Altermath.",
+      "homepage": "https://michaelwave369.github.io/NestedBubbleGear/",
+      "has_pages": true,
+      "visibility": "public",
+      "updated_at": "2026-10-14T04:49:35Z"
+    },
+    {
+      "repo": "Domistika",
+      "full_name": "MichaelWave369/Domistika",
+      "html_url": "https://github.com/MichaelWave369/Domistika",
+      "description": "Domistika is an independent browser art application created for artists who want a focused sketching space without subscriptions, locked tools, or device-specific installs.",
+      "homepage": "https://michaelwave369.github.io/Domistika/",
+      "has_pages": true,
+      "visibility": "public",
+      "updated_at": "2026-10-08T20:44:07Z"
+    },
+    {
+      "repo": "MoreBounceLabs",
+      "full_name": "MichaelWave369/MoreBounceLabs",
+      "html_url": "https://github.com/MichaelWave369/MoreBounceLabs",
+      "description": "A local-first music house for Mikey More Bounce / MicTek, with an album vault, listening lounge, visual lab, radio stations, two DJ decks, browser-local favorites and playlists, and a persistent player.",
+      "homepage": "https://michaelwave369.github.io/MoreBounceLabs/",
+      "has_pages": true,
+      "visibility": "public",
+      "updated_at": "2026-10-11T04:54:30Z"
+    },
+    {
+      "repo": "Auralith369",
+      "full_name": "MichaelWave369/Auralith369",
+      "html_url": "https://github.com/MichaelWave369/Auralith369",
+      "description": "Local-first visual alchemy workstation for image editing, poster forging, style cards, manifests, and auditable creative receipts.",
+      "homepage": null,
+      "has_pages": true,
+      "visibility": "public",
+      "updated_at": "2026-09-29T03:47:55Z"
+    },
+    {
+      "repo": "SiliconLouvre",
+      "full_name": "MichaelWave369/SiliconLouvre",
+      "html_url": "https://github.com/MichaelWave369/SiliconLouvre",
+      "description": "The Silicon Louvre is a public, independent digital museum celebrating imagination, optical art, and human–AI collaboration.",
+      "homepage": "https://michaelwave369.github.io/SiliconLouvre/",
+      "has_pages": true,
+      "visibility": "public",
+      "updated_at": "2026-10-09T04:24:50Z"
+    },
+    {
+      "repo": "OpenBlueprintStudio",
+      "full_name": "MichaelWave369/OpenBlueprintStudio",
+      "html_url": "https://github.com/MichaelWave369/OpenBlueprintStudio",
+      "description": "OpenBlueprint Studio is a free, MIT-licensed, local-first blueprint and schematic editor. The v0.1 candidate provides a grid-snapped SVG drafting surface and a live Three.js/WebGL 2 concept preview in a static React app.",
+      "homepage": "https://michaelwave369.github.io/OpenBlueprintStudio/",
+      "has_pages": true,
+      "visibility": "public",
+      "updated_at": "2026-10-10T07:25:13Z"
+    },
+    {
+      "repo": "parallax-pixelforge",
+      "full_name": "MichaelWave369/parallax-pixelforge",
+      "html_url": "https://github.com/MichaelWave369/parallax-pixelforge",
+      "description": " a local-first retro Creator OS for building, playtesting, packaging, and evolving small game worlds.",
+      "homepage": "https://michaelwave369.github.io/parallax-pixelforge/",
+      "has_pages": true,
+      "visibility": "public",
+      "updated_at": "2026-10-08T21:38:55Z"
+    },
+    {
+      "repo": "PhiCade",
+      "full_name": "MichaelWave369/PhiCade",
+      "html_url": "https://github.com/MichaelWave369/PhiCade",
+      "description": "PhiCade is an open-source retro game runtime and emulator front end built around one core idea: every player enters through the same governed runtime seam.",
+      "homepage": "",
+      "has_pages": false,
+      "visibility": "public",
+      "updated_at": "2026-10-08T07:44:38Z"
+    },
+    {
+      "repo": "Pulse369",
+      "full_name": "MichaelWave369/Pulse369",
+      "html_url": "https://github.com/MichaelWave369/Pulse369",
+      "description": "An original browser VR fitness and rave studio.  It combines rhythm targets, music uploads, clans, shared workout rooms, training paths, missions, adaptive coach agents, achievements, and guided recovery.",
+      "homepage": "https://michaelwave369.github.io/Pulse369/",
+      "has_pages": true,
+      "visibility": "public",
+      "updated_at": "2026-10-10T04:36:23Z"
+    },
+    {
+      "repo": "BrainC",
+      "full_name": "MichaelWave369/BrainC",
+      "html_url": "https://github.com/MichaelWave369/BrainC",
+      "description": "A full local AI ecosystem that runs on Ollama with a Python/FastAPI chat interface.",
+      "homepage": null,
+      "has_pages": false,
+      "visibility": "public",
+      "updated_at": "2026-09-18T07:07:32Z"
+    },
+    {
+      "repo": "PocketBrain",
+      "full_name": "MichaelWave369/PocketBrain",
+      "html_url": "https://github.com/MichaelWave369/PocketBrain",
+      "description": "PocketBrain is a private, phone-first AI brain that runs locally, remembers locally, and stays under your control.",
+      "homepage": "https://michaelwave369.github.io/PocketBrain/",
+      "has_pages": true,
+      "visibility": "public",
+      "updated_at": "2026-10-13T05:50:29Z"
+    },
+    {
+      "repo": "PorchTalk",
+      "full_name": "MichaelWave369/PorchTalk",
+      "html_url": "https://github.com/MichaelWave369/PorchTalk",
+      "description": "PorchTalk is the proposed consent-first, budget-aware inference routing policy layer for the Infinite Porch / Infinite Commons ecosystem. It is independently implemented research code, intended to complement PhiOS, PhiPie, Super Φ.Vessel / Crane Fly, BudgetGenius, and PhiStream, not duplicate their runtimes.",
+      "homepage": "https://michaelwave369.github.io/PorchTalk/",
+      "has_pages": true,
+      "visibility": "public",
+      "updated_at": "2026-10-13T06:28:09Z"
+    },
+    {
+      "repo": "FieldAtlas",
+      "full_name": "MichaelWave369/FieldAtlas",
+      "html_url": "https://github.com/MichaelWave369/FieldAtlas",
+      "description": "A cozy, interactive library of live GitHub Pages projects by MichaelWave369.",
+      "homepage": "https://michaelwave369.github.io/FieldAtlas/",
+      "has_pages": true,
+      "visibility": "public",
+      "updated_at": "2026-10-09T07:56:11Z"
+    },
+    {
+      "repo": "MoreBounceMethod",
+      "full_name": "MichaelWave369/MoreBounceMethod",
+      "html_url": "https://github.com/MichaelWave369/MoreBounceMethod",
+      "description": "An open-source human practice for honesty, accountability, understanding, interconnection, contribution, and curiosity. This is a new, evolving framework, not a scientifically validated treatment or universal recipe for wellbeing.",
+      "homepage": "https://michaelwave369.github.io/MoreBounceMethod/",
+      "has_pages": true,
+      "visibility": "public",
+      "updated_at": "2026-10-16T17:13:34Z"
+    },
+    {
+      "repo": "GLO",
+      "full_name": "MichaelWave369/GLO",
+      "html_url": "https://github.com/MichaelWave369/GLO",
+      "description": "Good Lookin' Out. Find what you need. Share what you know.",
+      "homepage": "https://michaelwave369.github.io/GLO/",
+      "has_pages": true,
+      "visibility": "public",
+      "updated_at": "2026-10-16T22:59:25Z"
+    }
+  ]
+}

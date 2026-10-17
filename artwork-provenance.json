@@ -1,0 +1,254 @@
+[
+  {
+    "number": "01",
+    "slug": "infinite-porch",
+    "original_file": "exec-47f16a90-2d30-4253-a10b-73ce20c2b0fb.png",
+    "original_sha256": "2d30ad568cbcae1d69fe500774348dafeb3bc93f0d0c081310597f2c124d67b3",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "asset": "public/artworks/01-infinite-porch.webp",
+    "origin": "AI_GENERATED",
+    "creative_direction": "Michael (Mikey) Hughes",
+    "generated_date": "2026-10-16"
+  },
+  {
+    "number": "02",
+    "slug": "infinite-commons",
+    "original_file": "exec-75391bd6-961b-471c-b728-724d4a6c8bd5.png",
+    "original_sha256": "12fc52d76068e00403aebd5b44cd1a4e2e4033ba043aa8ef060c5eea18ac695d",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "asset": "public/artworks/02-infinite-commons.webp",
+    "origin": "AI_GENERATED",
+    "creative_direction": "Michael (Mikey) Hughes",
+    "generated_date": "2026-10-16"
+  },
+  {
+    "number": "03",
+    "slug": "super-phi-vessel",
+    "original_file": "exec-de639bdb-8191-45fd-92d1-d3dd473bbcee.png",
+    "original_sha256": "ecf363e83e4830a6290948f46da20952e653e98430ebae6216a3a292e866a0d5",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "asset": "public/artworks/03-super-phi-vessel.webp",
+    "origin": "AI_GENERATED",
+    "creative_direction": "Michael (Mikey) Hughes",
+    "generated_date": "2026-10-16"
+  },
+  {
+    "number": "04",
+    "slug": "nested-bubble-gear",
+    "original_file": "exec-7f1bc4a0-71da-44d8-98d8-3f2d3173d211.png",
+    "original_sha256": "d734dbaabf4fa70b2a4dafa8279d220a435ba4e753bac2e7d6bc033a58c44986",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "asset": "public/artworks/04-nested-bubble-gear.webp",
+    "origin": "AI_GENERATED",
+    "creative_direction": "Michael (Mikey) Hughes",
+    "generated_date": "2026-10-16"
+  },
+  {
+    "number": "05",
+    "slug": "domistika",
+    "original_file": "exec-0077ff0e-7932-4f4f-a1aa-399a39f6ab74.png",
+    "original_sha256": "a6357c8335fa8a64f54b1dcf9be65014a1d1f6c7d2c70fa3c3a1fe8fbbb45cb5",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "asset": "public/artworks/05-domistika.webp",
+    "origin": "AI_GENERATED",
+    "creative_direction": "Michael (Mikey) Hughes",
+    "generated_date": "2026-10-16"
+  },
+  {
+    "number": "06",
+    "slug": "more-bounce-labs",
+    "original_file": "exec-60ec17b8-a369-4d3f-adaf-7eada006c9cd.png",
+    "original_sha256": "e364c7207b28eefbd769d3b66c8e5094a88eb9f7dce2edb50245fa01252dd0a0",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "asset": "public/artworks/06-more-bounce-labs.webp",
+    "origin": "AI_GENERATED",
+    "creative_direction": "Michael (Mikey) Hughes",
+    "generated_date": "2026-10-16"
+  },
+  {
+    "number": "07",
+    "slug": "auralith369",
+    "original_file": "exec-f06d0a24-5f6f-4bb2-b332-a1ddb34d22f9.png",
+    "original_sha256": "5031aa9b52663279dd47c696f6832f9b5522e42be8b15717721bea56cb8e21da",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "asset": "public/artworks/07-auralith369.webp",
+    "origin": "AI_GENERATED",
+    "creative_direction": "Michael (Mikey) Hughes",
+    "generated_date": "2026-10-16"
+  },
+  {
+    "number": "08",
+    "slug": "silicon-louvre",
+    "original_file": "exec-fba03635-8fe1-48c0-a100-0b08bf868ee6.png",
+    "original_sha256": "34ef5698ab65f58299ee0b9188724198bfae299d91a0493335227980a9b64e65",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "asset": "public/artworks/08-silicon-louvre.webp",
+    "origin": "AI_GENERATED",
+    "creative_direction": "Michael (Mikey) Hughes",
+    "generated_date": "2026-10-16"
+  },
+  {
+    "number": "09",
+    "slug": "openblue",
+    "original_file": "exec-490f58e7-7def-46eb-bae8-3132095e4afa.png",
+    "original_sha256": "677409adde0eecc46fccec74b530dee5701eeadd7f9a5c2954f44d5efffcbd73",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "asset": "public/artworks/09-openblue.webp",
+    "origin": "AI_GENERATED",
+    "creative_direction": "Michael (Mikey) Hughes",
+    "generated_date": "2026-10-16"
+  },
+  {
+    "number": "10",
+    "slug": "pixelforge",
+    "original_file": "exec-7dce4c44-3142-4bd1-ad11-68fb288851ad.png",
+    "original_sha256": "b23525a077dff4417a4c449f4a01827cb59881fbf6e99b2c83e9c5507c2cedf3",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "asset": "public/artworks/10-pixelforge.webp",
+    "origin": "AI_GENERATED",
+    "creative_direction": "Michael (Mikey) Hughes",
+    "generated_date": "2026-10-16"
+  },
+  {
+    "number": "11",
+    "slug": "phicade",
+    "original_file": "exec-259e4f06-4c11-4100-9473-d72f91ea34e0.png",
+    "original_sha256": "cda842c2bba26a3e78cf5e2576436a7a41bc997215f9cf6d228c874fc36889a5",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "asset": "public/artworks/11-phicade.webp",
+    "origin": "AI_GENERATED",
+    "creative_direction": "Michael (Mikey) Hughes",
+    "generated_date": "2026-10-16"
+  },
+  {
+    "number": "12",
+    "slug": "pulse369",
+    "original_file": "exec-7233739a-076d-495f-8ca9-67afcd60b419.png",
+    "original_sha256": "f02d6d889108cb5732e230d3180240d0aef73e93ff6d90a149f73f717b1abd03",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "asset": "public/artworks/12-pulse369.webp",
+    "origin": "AI_GENERATED",
+    "creative_direction": "Michael (Mikey) Hughes",
+    "generated_date": "2026-10-16"
+  },
+  {
+    "number": "13",
+    "slug": "brainc",
+    "original_file": "exec-7fa7b72a-962b-4c54-9e7b-51a4fd18a550.png",
+    "original_sha256": "bb79594a06bc776e29fca166a560559e21124ffa9ccc112d6d4a7871b97bf5f4",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "asset": "public/artworks/13-brainc.webp",
+    "origin": "AI_GENERATED",
+    "creative_direction": "Michael (Mikey) Hughes",
+    "generated_date": "2026-10-16"
+  },
+  {
+    "number": "14",
+    "slug": "pocketbrain",
+    "original_file": "exec-56e34f63-cfed-435a-91aa-b33e4ed2c5e1.png",
+    "original_sha256": "e6edb0f6549aafd6f5dc26d11c29e41b05877b9049a33944ab84829c11075c5e",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "asset": "public/artworks/14-pocketbrain.webp",
+    "origin": "AI_GENERATED",
+    "creative_direction": "Michael (Mikey) Hughes",
+    "generated_date": "2026-10-16"
+  },
+  {
+    "number": "15",
+    "slug": "porchtalk",
+    "original_file": "exec-a5d2dfb5-d2e0-44b6-bed4-38a22ade9150.png",
+    "original_sha256": "be02ce10d0863e8bd1bbd6c7ad01bc29da3c4b978d9c278d7631c47b4ffc460f",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "asset": "public/artworks/15-porchtalk.webp",
+    "origin": "AI_GENERATED",
+    "creative_direction": "Michael (Mikey) Hughes",
+    "generated_date": "2026-10-16"
+  },
+  {
+    "number": "16",
+    "slug": "field-atlas",
+    "original_file": "exec-912c5455-09d3-4951-a632-b543cd20f2fa.png",
+    "original_sha256": "4042d34f087f5886a194464f3673bb9578bd10ddf977c615bfa683d087ad9764",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "asset": "public/artworks/16-field-atlas.webp",
+    "origin": "AI_GENERATED",
+    "creative_direction": "Michael (Mikey) Hughes",
+    "generated_date": "2026-10-16"
+  },
+  {
+    "number": "17",
+    "slug": "more-bounce-method",
+    "original_file": "exec-9986ee4f-4a8e-4adf-956e-429467befabf.png",
+    "original_sha256": "460b1ef3e38770c9ccfb8c04df4f4612ab61107c63c181bf780aead4df82f5a9",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "asset": "public/artworks/17-more-bounce-method.webp",
+    "origin": "AI_GENERATED",
+    "creative_direction": "Michael (Mikey) Hughes",
+    "generated_date": "2026-10-16"
+  },
+  {
+    "number": "18",
+    "slug": "glo-pin",
+    "original_file": "exec-6e4383d2-40d6-4f5f-a702-dfa5b07bef88.png",
+    "original_sha256": "7d231f669cce98a2644e3cec5f8c4e1d071939096126184c63a8202058b67213",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "asset": "public/artworks/18-glo-pin.webp",
+    "origin": "AI_GENERATED",
+    "creative_direction": "Michael (Mikey) Hughes",
+    "generated_date": "2026-10-16"
+  }
+]

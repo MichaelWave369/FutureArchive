@@ -50,7 +50,14 @@ test('mobile search can recover from an empty result without horizontal overflow
   await expect(page.getByRole('heading',{name:'No worlds found just yet.'})).toBeVisible();
   await page.getByRole('button',{name:'Show all 18 prints'}).click();
   await expect(page.locator('[data-print]')).toHaveCount(18);
-  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth)).toBe(true);
+  const layout=await page.evaluate(()=>({
+    viewport:window.innerWidth,
+    page:document.documentElement.scrollWidth,
+    overflow:Array.from(document.body.querySelectorAll('*')).map(element=>{
+      const rect=element.getBoundingClientRect();return{tag:element.tagName,className:element.className,left:rect.left,right:rect.right};
+    }).filter(item=>item.left<0||item.right>window.innerWidth).slice(0,12)
+  }));
+  expect(layout.page,JSON.stringify(layout)).toBeLessThanOrEqual(layout.viewport);
 });
 test('the pre-rendered gallery and image links work with JavaScript disabled',async({browser,baseURL})=>{
   const context=await browser.newContext({javaScriptEnabled:false,baseURL});
